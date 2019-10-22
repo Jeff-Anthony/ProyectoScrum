@@ -4,4 +4,5 @@
 
 #Modificaciones-Tabla Historial de Usuario - Revición
 
-#Modificaciones-Tareas - Por hacer
+#Modificaciones-Tareas - Hecho
+#Hecho-Sprint 1 - Hecho
