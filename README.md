@@ -8,5 +8,8 @@
 #Modificaciones-Tabla Historial de Usuario - Revición
 
 
-#Modificaciones-Tareas - Hecho
+#Modificaciones-Tareas - Hecho                   
 #Modificaciones-Sprint 1 - Hecho
+#Modificaciones-Sprint 2 - Hecho
+#Modificaciones- Archivos Movil y Spring - Hecho
+
